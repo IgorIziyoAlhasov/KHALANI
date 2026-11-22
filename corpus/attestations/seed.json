@@ -1,0 +1,45 @@
+{
+  "schema_version": "0.1.0",
+  "note": "Candidate strings collected as discovery leads. No claim of independent primary-source verification is made.",
+  "attestations": [
+    {
+      "id": "NK-ATT-0001",
+      "form": "En Taro Adun",
+      "source_id": "NK-SRC-0002",
+      "source_locator": null,
+      "speaker": null,
+      "faction": null,
+      "transcription_method": "secondary_report",
+      "orthographic_status": "unverified",
+      "translation_claims": [],
+      "verification_status": "pending_primary_check",
+      "notes": "Find in primary game audio/text and verify exact spelling and conventional translation."
+    },
+    {
+      "id": "NK-ATT-0002",
+      "form": "Adun Toridas",
+      "source_id": "NK-SRC-0002",
+      "source_locator": null,
+      "speaker": null,
+      "faction": null,
+      "transcription_method": "secondary_report",
+      "orthographic_status": "unverified",
+      "translation_claims": [],
+      "verification_status": "pending_primary_check",
+      "notes": "Meaning, segmentation and official spelling remain unverified."
+    },
+    {
+      "id": "NK-ATT-0003",
+      "form": "Khas il'adare",
+      "source_id": "NK-SRC-0002",
+      "source_locator": null,
+      "speaker": null,
+      "faction": null,
+      "transcription_method": "secondary_report",
+      "orthographic_status": "unverified",
+      "translation_claims": [],
+      "verification_status": "pending_primary_check",
+      "notes": "Reported translation requires source-specific validation."
+    }
+  ]
+}
