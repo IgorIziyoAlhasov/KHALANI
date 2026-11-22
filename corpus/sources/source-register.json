@@ -1,0 +1,45 @@
+{
+  "schema_version": "0.1.0",
+  "sources": [
+    {
+      "id": "NK-SRC-0001",
+      "title": "StarCraft original game manual (1998)",
+      "creator": "Blizzard Entertainment",
+      "tier": "S1",
+      "type": "official_manual",
+      "url": "https://ftp.blizzard.com/pub/misc/StarCraft.PDF",
+      "verification_status": "primary_locator_pending",
+      "notes": "Potential primary evidence for Protoss cultural terminology; verify exact printed pages and quotations before asserting entry-level confirmation."
+    },
+    {
+      "id": "NK-SRC-0002",
+      "title": "StarCraft Wiki — Khalani",
+      "creator": "StarCraft Wiki contributors",
+      "tier": "S3",
+      "type": "secondary_compilation",
+      "url": "https://starcraft.fandom.com/wiki/Khalani",
+      "verification_status": "discovery_lead",
+      "notes": "Use to locate candidate lines and alleged editor-based translations, never as sole basis for primary verification."
+    },
+    {
+      "id": "NK-SRC-0003",
+      "title": "StarCraft Wiki — StarCraft unit quotations",
+      "creator": "StarCraft Wiki contributors",
+      "tier": "S3",
+      "type": "secondary_transcription_index",
+      "url": "https://starcraft.fandom.com/wiki/StarCraft_unit_quotations",
+      "verification_status": "discovery_lead",
+      "notes": "Candidate voice lines; validate against game audio."
+    },
+    {
+      "id": "NK-SRC-0004",
+      "title": "Khalani: A Tentative Attempt at the Protoss' Language",
+      "creator": "Independent fan-language author",
+      "tier": "S4",
+      "type": "fan_elaboration",
+      "url": "https://khalani-language.blogspot.com/2010/08/welcome.html",
+      "verification_status": "discovery_lead",
+      "notes": "Study as prior creative work; do not import constructions into canon."
+    }
+  ]
+}
