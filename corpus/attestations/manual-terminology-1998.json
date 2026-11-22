@@ -1,0 +1,100 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "primary_supported_terminology",
+  "scope_note": "These are source-printed cultural terms, not evidence of a full grammatical system. Printed page numbering follows the 1998 manual.",
+  "source_url": "https://ftp.blizzard.com/pub/misc/StarCraft.PDF",
+  "terms": [
+    {
+      "id": "NK-TERM-0001",
+      "form": "Khas",
+      "category": "personal_title",
+      "source_id": "NK-SRC-0001",
+      "source_locator": {
+        "document": "StarCraft (1998) manual",
+        "printed_page": 73,
+        "section": "Protoss History"
+      },
+      "gloss": {
+        "text": "he who brings order",
+        "evidence": "manual_explicit_equivalence",
+        "status": "verified"
+      },
+      "referent_status": "primary_text_supported",
+      "orthography_status": "primary_printed_form",
+      "grammatical_analysis_status": "unresolved",
+      "notes": "Explicitly identified as an acquired title of the mystic whose personal name was forgotten."
+    },
+    {
+      "id": "NK-TERM-0002",
+      "form": "Khala",
+      "category": "philosophical_system",
+      "source_id": "NK-SRC-0001",
+      "source_locator": {
+        "document": "StarCraft (1998) manual",
+        "printed_page": 73,
+        "section": "Protoss History"
+      },
+      "gloss": {
+        "text": "Path of Ascension",
+        "evidence": "manual_explicit_equivalence",
+        "status": "verified"
+      },
+      "referent_status": "primary_text_supported",
+      "orthography_status": "primary_printed_form",
+      "grammatical_analysis_status": "unresolved",
+      "notes": "An explicit denomination of Khas's social and psychic philosophy; not independent morpheme analysis."
+    },
+    {
+      "id": "NK-TERM-0003",
+      "form": "Dae’Uhl",
+      "category": "ethical_principle",
+      "source_id": "NK-SRC-0001",
+      "source_locator": {
+        "document": "StarCraft (1998) manual",
+        "printed_page": 75,
+        "section": "Protoss History"
+      },
+      "gloss": {
+        "text": "Great Stewardship",
+        "evidence": "manual_explicit_equivalence",
+        "status": "verified"
+      },
+      "referent_status": "primary_text_supported",
+      "orthography_status": "primary_printed_form",
+      "grammatical_analysis_status": "unresolved",
+      "notes": "Explicit equivalence in the manual and described principle of protecting less developed races."
+    },
+    {
+      "id": "NK-TERM-0004",
+      "form": "Khalai",
+      "category": "caste_name",
+      "source_id": "NK-SRC-0001",
+      "source_locator": {
+        "document": "StarCraft (1998) manual",
+        "printed_page": 74,
+        "section": "Protoss History"
+      },
+      "gloss": null,
+      "referent_status": "primary_text_supported",
+      "orthography_status": "primary_printed_form",
+      "grammatical_analysis_status": "unresolved",
+      "notes": "Identified as a caste of industrialists, scientists and workers; no literal etymology given."
+    },
+    {
+      "id": "NK-TERM-0005",
+      "form": "Khaydarin",
+      "category": "crystal_designation",
+      "source_id": "NK-SRC-0001",
+      "source_locator": {
+        "document": "StarCraft (1998) manual",
+        "printed_page": 73,
+        "section": "Protoss History"
+      },
+      "gloss": null,
+      "referent_status": "primary_text_supported",
+      "orthography_status": "primary_printed_form",
+      "grammatical_analysis_status": "unresolved",
+      "notes": "Term used in the name Khaydarin Crystals; independent word meaning not provided."
+    }
+  ]
+}
