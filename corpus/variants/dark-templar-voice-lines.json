@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.1.0",
+  "status": "secondary_transcriptions_not_audio_verified",
+  "clusters": [
+    {
+      "id": "NK-VAR-0001",
+      "concept": "Dark Templar attack order, reported line index 01",
+      "unit": "Dark Templar",
+      "game": "StarCraft II",
+      "asset_id_reported": "DarkTemplar_Attack01.ogg",
+      "candidate_english_neighbor": {
+        "asset_id": "DarkTemplar_Attack00.ogg",
+        "text": "I strike from the shadows!",
+        "relationship": "adjacent_same_response_class_not_proven_translation"
+      },
+      "variants": [
+        {
+          "form": "Alakor de zhakan!",
+          "source": "https://starcraft.fandom.com/wiki/StarCraft_II_unit_quotations/Protoss"
+        },
+        {
+          "form": "Ahla'kur dei Shakan.",
+          "source": "https://liquipedia.net/starcraft2/Dark_Templar_%28Wings_of_Liberty_and_Heart_of_the_Swarm%29"
+        },
+        {
+          "form": "Al'a korr de zhakan",
+          "source": "https://www.gamersky.com/handbook/201611/838795_10.shtml"
+        }
+      ],
+      "verification": "needs_original_audio_and_SC2_Conversations_lookup",
+      "interpretation": "The competing spellings may represent one audible utterance; no canonical orthography established."
+    },
+    {
+      "id": "NK-VAR-0002",
+      "concept": "Dark Templar move/acknowledge order, reported line index 03",
+      "unit": "Dark Templar",
+      "game": "StarCraft II",
+      "asset_id_reported": "DarkTemplar_Yes03.ogg",
+      "candidate_english_neighbor": {
+        "asset_id": "DarkTemplar_Yes02.ogg",
+        "text": "Clever.",
+        "relationship": "adjacent_same_response_class_not_proven_translation"
+      },
+      "variants": [
+        {
+          "form": "Khatum.",
+          "source": "https://starcraft.fandom.com/wiki/StarCraft_II_unit_quotations/Protoss"
+        }
+      ],
+      "verification": "needs_original_audio_and_SC2_Conversations_lookup",
+      "interpretation": "Exact pronunciation, orthography, and semantic equivalence unresolved."
+    }
+  ]
+}
