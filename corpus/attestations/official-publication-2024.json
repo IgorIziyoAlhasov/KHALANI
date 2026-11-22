@@ -1,0 +1,22 @@
+{
+  "schema_version": "0.1.0",
+  "attestations": [
+    {
+      "id": "NK-ATT-0004",
+      "form": "Khas il'adare!",
+      "source_id": "NK-SRC-0005",
+      "source_locator": {
+        "url": "https://news.xbox.com/es-latam/2024/09/26/conoce-starcraft-y-starcraft-ii-cuando-lleguen-a-game-pass/",
+        "location": "Final paragraph immediately before related stories",
+        "publication_date": "2024-09-26"
+      },
+      "source_type": "official_supplementary_publication",
+      "orthographic_status": "verified_for_this_publication",
+      "translation_claims": [],
+      "translation_status": "unresolved",
+      "transcription_method": "direct_original_text",
+      "verification_status": "official_text_verified",
+      "notes": "Exact expression printed by Blizzard staff in Xbox Wire article. Official meaning/segmentation not given here."
+    }
+  ]
+}
