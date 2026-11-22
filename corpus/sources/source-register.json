@@ -40,6 +40,28 @@
       "url": "https://khalani-language.blogspot.com/2010/08/welcome.html",
       "verification_status": "discovery_lead",
       "notes": "Study as prior creative work; do not import constructions into canon."
+    },
+    {
+      "id": "NK-SRC-0005",
+      "title": "Conoce StarCraft y StarCraft II cuando lleguen a Game Pass",
+      "creator": "Amelia Savery, Blizzard Entertainment",
+      "publisher": "Xbox Wire",
+      "publication_date": "2024-09-26",
+      "tier": "S2",
+      "type": "official_supplementary_article",
+      "url": "https://news.xbox.com/es-latam/2024/09/26/conoce-starcraft-y-starcraft-ii-cuando-lleguen-a-game-pass/",
+      "verification_status": "official_webpage_verified",
+      "notes": "Final paragraph uses exact expression Khas il'adare! No translation is supplied."
+    },
+    {
+      "id": "NK-SRC-0006",
+      "title": "StarCraft II Cutscene Editor Instructions",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_editor_documentation",
+      "url": "https://us.media.blizzard.com/starcraft2/downloads/tutorial/SCII-CutsceneEditorInstructions.pdf",
+      "verification_status": "text_index_inspected_visual_pending",
+      "notes": "Documents conversation lines and dependencies, not specific Khalani translations. PDF screenshot retrieval failed; do not claim visual verification."
     }
   ]
 }
