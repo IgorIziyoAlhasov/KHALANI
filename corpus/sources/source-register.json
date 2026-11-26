@@ -132,6 +132,26 @@
       "url": "https://news.blizzard.com/en-us/article/23482838/starcraft-ii-5-0-patch-notes",
       "verification_status": "official_webpage_verified",
       "notes": "Documents EditorStrings, EditorCatalogStrings, EditorCategoryStrings overrides. Does not establish translations for Khalani utterances."
+    },
+    {
+      "id": "NK-SRC-0014",
+      "title": "Children of the Void",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_starcraft_fiction",
+      "url": "https://media.blizzard.com/sc2/lore/children-void/children-void.pdf",
+      "verification_status": "official_pdf_text_extracted_visual_pending",
+      "notes": "Text-extracted printed p.12: Vorazun and Mohandar reciprocate 'En taro Adun'. PDF screenshot tool returned cache miss; visual check pending."
+    },
+    {
+      "id": "NK-SRC-0015",
+      "title": "Cold Symmetry",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_starcraft_fiction",
+      "url": "https://media.blizzard.com/sc2/lore/cold-symmetry/cold-symmetry.pdf",
+      "verification_status": "official_pdf_text_extracted_visual_pending",
+      "notes": "Text-extracted printed p.36: a voice addresses Teredal with 'En taro Adun, zealot.' and Teredal answers with the expression. Page-image check failed; visual check pending."
     }
   ]
 }
