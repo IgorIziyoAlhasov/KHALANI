@@ -1,0 +1,80 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "secondary_campaign_transcript_candidates",
+  "source_quality_warning": "Transcript describes scenes in primary game but is not a verified original subtitle or asset. All entries require in-game verification.",
+  "attestations": [
+    {
+      "id": "NK-ATT-0015",
+      "form": "En Taro Adun!",
+      "source_id": "NK-SRC-0019",
+      "speaker": "Artanis",
+      "scene": "Return to Aiur, Artanis addresses Daelaam ahead of final defense",
+      "context": "ceremonial rallying series",
+      "sequence_index": 1,
+      "verification_status": "secondary_transcript_only",
+      "translation_claims": []
+    },
+    {
+      "id": "NK-ATT-0016",
+      "form": "En Taro Tassadar!",
+      "source_id": "NK-SRC-0019",
+      "speaker": "Artanis",
+      "scene": "Return to Aiur, Artanis addresses Daelaam ahead of final defense",
+      "context": "ceremonial rallying series",
+      "sequence_index": 2,
+      "verification_status": "secondary_transcript_only",
+      "translation_claims": []
+    },
+    {
+      "id": "NK-ATT-0017",
+      "form": "En Taro Zeratul!",
+      "source_id": "NK-SRC-0019",
+      "speaker": "Artanis",
+      "scene": "Return to Aiur, Artanis addresses Daelaam ahead of final defense",
+      "context": "ceremonial rallying series",
+      "sequence_index": 3,
+      "verification_status": "secondary_transcript_only",
+      "translation_claims": []
+    },
+    {
+      "id": "NK-ATT-0018",
+      "form": "En Taro Artanis!",
+      "source_id": "NK-SRC-0019",
+      "speaker": "Selendis",
+      "scene": "Return to Aiur, rejoinder to Artanis's rallying cry",
+      "verification_status": "secondary_transcript_only",
+      "translation_claims": []
+    },
+    {
+      "id": "NK-ATT-0019",
+      "form": "En Taro Tassadar, old friend.",
+      "source_id": "NK-SRC-0020",
+      "speaker": "Artanis",
+      "scene": "Aiur missions, exchange with Zeratul",
+      "verification_status": "secondary_transcript_only",
+      "translation_claims": []
+    },
+    {
+      "id": "NK-ATT-0020",
+      "form": "En Taro Artanis, brother.",
+      "source_id": "NK-SRC-0020",
+      "speaker": "Zeratul",
+      "scene": "Aiur missions, reciprocal exchange",
+      "verification_status": "secondary_transcript_only",
+      "translation_claims": []
+    }
+  ],
+  "analysis": {
+    "hypothesis_id": "NK-HYP-001",
+    "new_name_fillers_secondary_only": [
+      "Zeratul",
+      "Artanis"
+    ],
+    "confirmed_official_publication_fillers": [
+      "Adun",
+      "Tassadar"
+    ],
+    "observation": "Secondary campaign transcript places three honorific names in consecutive parallel utterances, and records additional Artanis instance in reciprocal address.",
+    "caution": "No primary source asset inspected, no formal productivity claim or morpheme-level translation established."
+  }
+}
