@@ -1,0 +1,86 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "official_literary_context_attestations",
+  "note": "Official-source PDF searchable text examined; visual screenshot requests failed with cache miss, so orthographic page verification remains pending. Narrative dialogue supports pragmatic usage, not direct lexical translation.",
+  "attestations": [
+    {
+      "id": "NK-ATT-0008",
+      "form": "En taro Adun",
+      "source_id": "NK-SRC-0014",
+      "source_locator": {
+        "printed_page": 12,
+        "scene": "Vorazun approaches Mohandar at Citadel stairs"
+      },
+      "speaker": "Vorazun",
+      "addressee": "Mohandar",
+      "speaker_affiliation": "Nerazim",
+      "usage_context": "salutation",
+      "exchange_group": "NK-EX-0001",
+      "orthographic_status": "publisher_pdf_text_extraction_visual_pending",
+      "interpretation_status": "contextual_pragmatics_supported",
+      "translation_claims": []
+    },
+    {
+      "id": "NK-ATT-0009",
+      "form": "En taro Adun",
+      "source_id": "NK-SRC-0014",
+      "source_locator": {
+        "printed_page": 12,
+        "scene": "Mohandar responds to Vorazun"
+      },
+      "speaker": "Mohandar",
+      "addressee": "Vorazun",
+      "speaker_affiliation": "Nerazim",
+      "usage_context": "reciprocal_salutation",
+      "exchange_group": "NK-EX-0001",
+      "orthographic_status": "publisher_pdf_text_extraction_visual_pending",
+      "interpretation_status": "contextual_pragmatics_supported",
+      "translation_claims": []
+    },
+    {
+      "id": "NK-ATT-0010",
+      "form": "En taro Adun",
+      "source_id": "NK-SRC-0015",
+      "source_locator": {
+        "printed_page": 36,
+        "scene": "Reply from the fleet to Teredal, addressed as zealot"
+      },
+      "speaker": "unidentified_fleet_communicator",
+      "addressee": "Teredal",
+      "speaker_affiliation": null,
+      "usage_context": "address_or_acknowledgment",
+      "exchange_group": "NK-EX-0002",
+      "orthographic_status": "publisher_pdf_text_extraction_visual_pending",
+      "interpretation_status": "contextual_pragmatics_supported",
+      "translation_claims": []
+    },
+    {
+      "id": "NK-ATT-0011",
+      "form": "En taro Adun",
+      "source_id": "NK-SRC-0015",
+      "source_locator": {
+        "printed_page": 36,
+        "scene": "Teredal echoes the expression"
+      },
+      "speaker": "Teredal",
+      "addressee": "fleet_communicator",
+      "speaker_affiliation": "Aiur Protoss zealot",
+      "usage_context": "reciprocal_acknowledgment",
+      "exchange_group": "NK-EX-0002",
+      "orthographic_status": "publisher_pdf_text_extraction_visual_pending",
+      "interpretation_status": "contextual_pragmatics_supported",
+      "translation_claims": []
+    }
+  ],
+  "analysis": {
+    "finding": "The same formula occurs as a reciprocal greeting or acknowledgment in a Nerazim-Nerazim exchange and an exchange involving a Khalai zealot.",
+    "confidence": "supported_by_narrative_context_not_translation",
+    "limitations": [
+      "Identity of unnamed fleet communicator not established",
+      "No direct translation provided in either story",
+      "No sound/phonology documented",
+      "Printed pages require visual verification",
+      "No proof of dialect uniformity or word-by-word segmentation"
+    ]
+  }
+}
