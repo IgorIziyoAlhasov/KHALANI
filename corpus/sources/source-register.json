@@ -182,6 +182,36 @@
       "url": "https://news.blizzard.com/en-gb/article/20477655/heroes-of-the-storm-ptr-patch-notes-january-17-2017",
       "verification_status": "official_webpage_search_excerpt_verified_direct_open_failed",
       "notes": "Developer commentary closes 'En Taro Tassadar.' Search-indexed source; direct open returned cache miss."
+    },
+    {
+      "id": "NK-SRC-0019",
+      "title": "StarCraft II: Legacy of the Void campaign quotations — Return to Aiur missions",
+      "creator": "StarCraft Wiki contributors",
+      "tier": "S3",
+      "type": "secondary_campaign_transcript",
+      "url": "https://starcraft.fandom.com/wiki/StarCraft_II:_Legacy_of_the_Void_campaign_quotations/Return_to_Aiur_missions",
+      "verification_status": "secondary_transcript_reviewed",
+      "notes": "Reports Artanis saying En Taro Adun! En Taro Tassadar! En Taro Zeratul! in Return to Aiur; Selendis responds En Taro Artanis!. Original in-game audio/subtitles not directly checked."
+    },
+    {
+      "id": "NK-SRC-0020",
+      "title": "StarCraft II: Legacy of the Void campaign quotations — Aiur missions",
+      "creator": "StarCraft Wiki contributors",
+      "tier": "S3",
+      "type": "secondary_campaign_transcript",
+      "url": "https://starcraft.fandom.com/wiki/StarCraft_II:_Legacy_of_the_Void_campaign_quotations/Aiur_missions",
+      "verification_status": "secondary_transcript_reviewed",
+      "notes": "Reports Zeratul replying En Taro Artanis, brother. to Artanis's En Taro Tassadar, old friend. Requires primary cutscene verification."
+    },
+    {
+      "id": "NK-SRC-0021",
+      "title": "Artanis voice lines — Latin American Spanish compilation",
+      "creator": "Independent YouTube compiler",
+      "tier": "S3",
+      "type": "secondary_audio_compilation",
+      "url": "https://www.youtube.com/watch?v=-BYxrzUA96U",
+      "verification_status": "description_only",
+      "notes": "Video description reports localized En Taro, Zeratul; video audio not directly listened to."
     }
   ]
 }
