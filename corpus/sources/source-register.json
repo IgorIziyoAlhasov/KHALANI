@@ -152,6 +152,36 @@
       "url": "https://media.blizzard.com/sc2/lore/cold-symmetry/cold-symmetry.pdf",
       "verification_status": "official_pdf_text_extracted_visual_pending",
       "notes": "Text-extracted printed p.36: a voice addresses Teredal with 'En taro Adun, zealot.' and Teredal answers with the expression. Page-image check failed; visual check pending."
+    },
+    {
+      "id": "NK-SRC-0016",
+      "title": "Legacy of the Void Launch Trailer and Live Server Times",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_news_article",
+      "url": "https://news.blizzard.com/en-gb/article/19940903/legacy-of-the-void-launch-trailer-and-live-server-times",
+      "verification_status": "official_webpage_verified",
+      "notes": "Closing text: 'En Taro Tassadar, Executors!' Specific formal address with Tassadar inserted."
+    },
+    {
+      "id": "NK-SRC-0017",
+      "title": "Artanis Hero Week",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_news_article",
+      "url": "https://news.blizzard.com/en-gb/article/19913787/artanis-hero-week",
+      "verification_status": "official_webpage_verified",
+      "notes": "Closing text: 'En Taro Tassadar!'"
+    },
+    {
+      "id": "NK-SRC-0018",
+      "title": "Heroes of the Storm PTR Patch Notes — January 17, 2017",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_patch_notes",
+      "url": "https://news.blizzard.com/en-gb/article/20477655/heroes-of-the-storm-ptr-patch-notes-january-17-2017",
+      "verification_status": "official_webpage_search_excerpt_verified_direct_open_failed",
+      "notes": "Developer commentary closes 'En Taro Tassadar.' Search-indexed source; direct open returned cache miss."
     }
   ]
 }
