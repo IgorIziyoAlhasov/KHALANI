@@ -62,6 +62,36 @@
       "url": "https://us.media.blizzard.com/starcraft2/downloads/tutorial/SCII-CutsceneEditorInstructions.pdf",
       "verification_status": "text_index_inspected_visual_pending",
       "notes": "Documents conversation lines and dependencies, not specific Khalani translations. PDF screenshot retrieval failed; do not claim visual verification."
+    },
+    {
+      "id": "NK-SRC-0007",
+      "title": "The Sounds of Koprulu",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_audio_production_commentary",
+      "url": "https://news.blizzard.com/en-gb/article/20722027/the-sounds-of-koprulu",
+      "verification_status": "official_webpage_verified",
+      "notes": "Describes SC1 dialogue voice processing, the Remastered sound preservation approach, and original English voice performances. Methodological background, NOT a phoneme or translation source."
+    },
+    {
+      "id": "NK-SRC-0008",
+      "title": "Data Editor Introduction — StarCraft II Editor Tutorials",
+      "creator": "SC2 Editor Tutorials community",
+      "tier": "S3",
+      "type": "editor_guide",
+      "url": "https://s2editor-guides.readthedocs.io/New_Tutorials/04_Data_Editor/058_Data_Editor_Introduction/",
+      "verification_status": "guide_text_reviewed",
+      "notes": "Lists Conversations and Conversation States catalogs. Useful for reproducible inspection, not evidence for specific Khalani text."
+    },
+    {
+      "id": "NK-SRC-0009",
+      "title": "Data Spaces — StarCraft II Editor Tutorials",
+      "creator": "SC2 Editor Tutorials community",
+      "tier": "S3",
+      "type": "editor_guide",
+      "url": "https://s2editor-guides.readthedocs.io/New_Tutorials/04_Data_Editor/data-spaces/",
+      "verification_status": "guide_text_reviewed",
+      "notes": "Notes localization text is held separately from data records; compare raw records with locale strings."
     }
   ]
 }
