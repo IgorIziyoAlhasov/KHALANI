@@ -92,6 +92,46 @@
       "url": "https://s2editor-guides.readthedocs.io/New_Tutorials/04_Data_Editor/data-spaces/",
       "verification_status": "guide_text_reviewed",
       "notes": "Notes localization text is held separately from data records; compare raw records with locale strings."
+    },
+    {
+      "id": "NK-SRC-0010",
+      "title": "StarCraft II 5.0.12 Patch Notes",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_patch_notes_en",
+      "url": "https://news.blizzard.com/en-us/article/24009150/starcraft-ii-5-0-12-patch-notes",
+      "verification_status": "official_webpage_verified",
+      "notes": "Opening uses 'En Taro Adun' without punctuation. No explicit translation."
+    },
+    {
+      "id": "NK-SRC-0011",
+      "title": "StarCraft II 5.0.11 PTR Patch Notes (German)",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_patch_notes_de",
+      "url": "https://news.blizzard.com/de-de/article/23891308/starcraft-ii-5-0-11-ptr-patchnotes",
+      "verification_status": "official_webpage_verified",
+      "notes": "Opening uses 'En Taro Adun!' without a translation."
+    },
+    {
+      "id": "NK-SRC-0012",
+      "title": "StarCraft II 5.0.11 PTR Patch Notes (Latin American Spanish)",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_patch_notes_es_mx",
+      "url": "https://news.blizzard.com/es-mx/article/23891308/notas-del-parche-5-0-11-del-rpp-de-starcraft-ii",
+      "verification_status": "official_webpage_verified",
+      "notes": "Opening uses 'En taro Adún'. Treat accent and capitalization as localization conventions, not Khalani phonological evidence."
+    },
+    {
+      "id": "NK-SRC-0013",
+      "title": "StarCraft II 5.0 Patch Notes — editor tooltip/localization customization",
+      "creator": "Blizzard Entertainment",
+      "tier": "S2",
+      "type": "official_editor_release_notes",
+      "url": "https://news.blizzard.com/en-us/article/23482838/starcraft-ii-5-0-patch-notes",
+      "verification_status": "official_webpage_verified",
+      "notes": "Documents EditorStrings, EditorCatalogStrings, EditorCategoryStrings overrides. Does not establish translations for Khalani utterances."
     }
   ]
 }
