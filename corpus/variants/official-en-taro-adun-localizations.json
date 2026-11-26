@@ -1,0 +1,49 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "official_publication_orthographic_variation",
+  "cluster_id": "NK-VAR-0003",
+  "normalized_key_for_search": "en taro adun",
+  "note": "Normalization for indexing does not establish original spelling, transcription, pronunciation or a word-level gloss.",
+  "attestations": [
+    {
+      "id": "NK-ATT-0005",
+      "form": "En Taro Adun",
+      "source_id": "NK-SRC-0010",
+      "source_locator": "Opening greeting, before balance overview",
+      "publication_locale": "en-US",
+      "orthographic_status": "verified_for_this_publication",
+      "translation_status": "not_given",
+      "verification_status": "official_text_verified"
+    },
+    {
+      "id": "NK-ATT-0006",
+      "form": "En Taro Adun!",
+      "source_id": "NK-SRC-0011",
+      "source_locator": "Opening greeting, before German patch-note introduction",
+      "publication_locale": "de-DE",
+      "orthographic_status": "verified_for_this_publication",
+      "translation_status": "not_given",
+      "verification_status": "official_text_verified"
+    },
+    {
+      "id": "NK-ATT-0007",
+      "form": "En taro Adún",
+      "source_id": "NK-SRC-0012",
+      "source_locator": "Opening greeting, before Spanish patch-note introduction",
+      "publication_locale": "es-MX",
+      "orthographic_status": "verified_for_this_publication",
+      "translation_status": "not_given",
+      "verification_status": "official_text_verified"
+    }
+  ],
+  "analysis": {
+    "verified": "Blizzard publications reproduce near-identical formula with localized differences in capitalization, accent and punctuation.",
+    "not_established": [
+      "Intrinsic Khalani stress or accent notation",
+      "Morphological value of en or taro",
+      "That every variant is Blizzard's preferred canonical spelling",
+      "Explicit English meaning from these sources"
+    ],
+    "phonological_warning": "Spanish orthographic accent is insufficient to infer native Khalani stress."
+  }
+}
