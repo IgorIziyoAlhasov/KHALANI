@@ -1,0 +1,71 @@
+{
+  "schema_version": "0.1.0",
+  "check_id": "NK-AUD-005",
+  "subject": "SC2 Dark Templar candidate translation pairs",
+  "candidate_groups": [
+    {
+      "group_id": "NK-VAR-0001",
+      "asset_ids_reported": [
+        "DarkTemplar_Attack00.ogg",
+        "DarkTemplar_Attack01.ogg"
+      ]
+    },
+    {
+      "group_id": "NK-VAR-0002",
+      "asset_ids_reported": [
+        "DarkTemplar_Yes02.ogg",
+        "DarkTemplar_Yes03.ogg"
+      ]
+    }
+  ],
+  "status": "not_primary_verified",
+  "required_fields": [
+    "game_build",
+    "editor_build",
+    "locale",
+    "dependency_set",
+    "asset_path",
+    "source_hash",
+    "conversation_id",
+    "field_or_key",
+    "relationship_type",
+    "direct_audio_observation",
+    "transcriber",
+    "reviewer"
+  ],
+  "relationship_types": [
+    "explicit_translation_annotation",
+    "localized_string_pair",
+    "same_conversation_context",
+    "adjacent_response_class",
+    "secondary_source_only"
+  ],
+  "checks": [
+    {
+      "id": "NK-AUD-005-A",
+      "task": "Verify asset identities in original installed game data",
+      "status": "pending"
+    },
+    {
+      "id": "NK-AUD-005-B",
+      "task": "Listen and independently transcribe candidate audio",
+      "status": "pending"
+    },
+    {
+      "id": "NK-AUD-005-C",
+      "task": "Inspect Conversations/Conversation States with dependency provenance",
+      "status": "pending"
+    },
+    {
+      "id": "NK-AUD-005-D",
+      "task": "Inspect corresponding localized strings",
+      "status": "pending"
+    },
+    {
+      "id": "NK-AUD-005-E",
+      "task": "Record exact semantic relationship and competing transcription notes",
+      "status": "pending"
+    }
+  ],
+  "notes": "A checklist is not evidence that primary material has been inspected."
+}
