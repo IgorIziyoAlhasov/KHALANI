@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "official_publication_utterances",
+  "attestations": [
+    {
+      "id": "NK-ATT-0012",
+      "form": "En Taro Tassadar, Executors!",
+      "source_id": "NK-SRC-0016",
+      "source_locator": "Closing sentence",
+      "speaker": "Blizzard news authorial voice",
+      "context": "Legacy of the Void launch announcement",
+      "orthographic_status": "official_text_verified",
+      "translation_claims": [],
+      "verification_status": "official_text_verified"
+    },
+    {
+      "id": "NK-ATT-0013",
+      "form": "En Taro Tassadar!",
+      "source_id": "NK-SRC-0017",
+      "source_locator": "Final sentence of Artanis Hero Week",
+      "speaker": "Blizzard news authorial voice",
+      "context": "Artanis profile",
+      "orthographic_status": "official_text_verified",
+      "translation_claims": [],
+      "verification_status": "official_text_verified"
+    },
+    {
+      "id": "NK-ATT-0014",
+      "form": "En Taro Tassadar.",
+      "source_id": "NK-SRC-0018",
+      "source_locator": "Developer Comments in Tassadar rework section",
+      "speaker": "Blizzard developer commentary",
+      "context": "Heroes of the Storm PTR notes",
+      "orthographic_status": "official_search_excerpt_verified_open_pending",
+      "translation_claims": [],
+      "verification_status": "official_search_excerpt_only"
+    }
+  ],
+  "candidate_pattern": {
+    "id": "NK-HYP-001",
+    "surface_template": "En Taro + [proper name]",
+    "observed_fillers": [
+      "Adun",
+      "Tassadar"
+    ],
+    "status": "strongly_supported_at_formula_level",
+    "limitations": [
+      "Does not establish individual En/Taro lexical meanings",
+      "Does not license arbitrary name substitution",
+      "Does not establish a fully productive grammatical rule or morphology",
+      "The Zeratul form remains secondary-source-only in this research pass"
+    ]
+  }
+}
