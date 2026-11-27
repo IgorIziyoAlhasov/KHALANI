@@ -212,6 +212,46 @@
       "url": "https://www.youtube.com/watch?v=-BYxrzUA96U",
       "verification_status": "description_only",
       "notes": "Video description reports localized En Taro, Zeratul; video audio not directly listened to."
+    },
+    {
+      "id": "NK-SRC-0022",
+      "title": "StarCraft High Templar expansion product description",
+      "creator": "Archon Studio",
+      "tier": "S2",
+      "type": "licensed_product_publisher_text",
+      "url": "https://archon-studio.com/shop/products/starcraft-tabletop-miniatures-game/starcraft-high-templar",
+      "verification_status": "publisher_webpage_verified",
+      "notes": "Contains Khassar de Templari! in the High Templar product description. Licensed third-party publication, not evidence of official English translation."
+    },
+    {
+      "id": "NK-SRC-0023",
+      "title": "StarCraft II unit quotations/Protoss",
+      "creator": "StarCraft Wiki contributors",
+      "tier": "S3",
+      "type": "secondary_unit_audio_index",
+      "url": "https://starcraft.fandom.com/wiki/StarCraft_II_unit_quotations/Protoss",
+      "verification_status": "secondary_index_reviewed",
+      "notes": "Indexes HighTemplar_Ready00, Zealot_Yes04, Mothership_What02 and What03. Asset IDs not yet independently checked."
+    },
+    {
+      "id": "NK-SRC-0024",
+      "title": "Tassadar quotes (Heroes of the Storm)",
+      "creator": "Heroes of the Storm Wiki community",
+      "tier": "S3",
+      "type": "secondary_game_quote_interpretation",
+      "url": "https://heroesofthestorm.wiki.gg/wiki/Tassadar/Quotes",
+      "verification_status": "secondary_page_reviewed",
+      "notes": "Attributes From order comes justice to Khassar de Templari. Not itself a Blizzard primary translation source."
+    },
+    {
+      "id": "NK-SRC-0025",
+      "title": "Khalani: Making it fit",
+      "creator": "Independent fan linguist",
+      "tier": "S4",
+      "type": "fan_language_analysis",
+      "url": "https://khalani-language.blogspot.com/2012/03/making-it-fit.html",
+      "verification_status": "fan_article_reviewed",
+      "notes": "Documents competing Khassar de templari transcriptions. Useful as history of fan analysis, not canonical spelling."
     }
   ]
 }
