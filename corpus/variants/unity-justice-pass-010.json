@@ -1,0 +1,75 @@
+{
+  "schema_version": "0.1.0",
+  "kind": "candidate_dialogue_and_orthographic_variants",
+  "date": "2026-11-27",
+  "clusters": [
+    {
+      "id": "NK-VAR-0004",
+      "form_key": "khassar de templari",
+      "publisher_attestation": {
+        "form": "Khassar de Templari!",
+        "source_id": "NK-SRC-0022",
+        "location": "High Templar product description",
+        "status": "publisher_written_form_verified"
+      },
+      "secondary_audio_index": [
+        {
+          "form": "Khassar de Templari!",
+          "asset_id": "HighTemplar_Ready00.ogg",
+          "source_id": "NK-SRC-0023"
+        },
+        {
+          "form": "Khassar de templari!",
+          "asset_id": "Zealot_Yes04.ogg",
+          "source_id": "NK-SRC-0023"
+        }
+      ],
+      "secondary_translation_claim": {
+        "gloss": "From order comes justice",
+        "source_id": "NK-SRC-0024",
+        "status": "secondary_unverified"
+      },
+      "notes": "No evidence yet for de='from' or templari='justice'; don't infer cognate relation to English Templar."
+    },
+    {
+      "id": "NK-VAR-0005",
+      "form_key": "ki nala atum",
+      "secondary_audio_index": [
+        {
+          "form": "As all are one.",
+          "asset_id": "Mothership_What02.ogg",
+          "source_id": "NK-SRC-0023"
+        },
+        {
+          "form": "Ki nala atum.",
+          "asset_id": "Mothership_What03.ogg",
+          "source_id": "NK-SRC-0023"
+        }
+      ],
+      "secondary_translation_claim": {
+        "gloss": "We are as one",
+        "source_id": "NK-SRC-0002",
+        "status": "secondary_unverified"
+      },
+      "notes": "Nearby response lines not demonstrated to be direct translations. Native sound file and localization keys pending."
+    }
+  ],
+  "hypotheses": [
+    {
+      "id": "NK-HYP-002",
+      "claim": "The recurring phonetic/orthographic sequence atum may participate in formulae about unity.",
+      "status": "tentative",
+      "evidence_forms": [
+        "Ki nala atum",
+        "Na Adan Atum",
+        "Uhn ore'ki atum"
+      ],
+      "counterarguments": [
+        "All three source spellings are secondary transcriptions",
+        "Repeated sounds may be coincidental or improperly segmented",
+        "No verified morpheme-to-meaning mapping"
+      ],
+      "recommendation": "Do not adopt atum as a lexeme until primary translation and audio evidence are checked."
+    }
+  ]
+}
