@@ -65,10 +65,10 @@
     "game_version": "5.0.17",
     "game_build": "98745",
     "battle_net_region": "Europe",
-    "voice_locale": null,
-    "voice_locale_status": "not_displayed_in_screenshots",
+    "voice_locale": "English (exact regional locale unspecified)",
+    "voice_locale_status": "contributor_confirmed_game_installation_language",
     "extraction_date": null,
     "archive_path": null,
-    "notes": "Screenshots confirm editor and launcher builds match; they do not independently authenticate archive origin of each audio file or establish spoken-language locale."
+    "notes": "Screenshots confirm editor and launcher builds match; contributor confirms English game installation. Region is Europe, but does not determine en-US versus en-GB. Original archive origins of individual audio assets still need independent verification."
   }
 }
