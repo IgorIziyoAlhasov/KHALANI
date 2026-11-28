@@ -2,7 +2,7 @@
   "schema_version": "0.1.0",
   "record_kind": "user_supplied_audio_asset_manifest",
   "record_date": "2026-11-28",
-  "provenance": "User states these files were extracted from their StarCraft II installation; original CASC archive offsets, install version, locale and extraction steps not yet documented.",
+  "provenance": "Contributor extracted all four samples from an English StarCraft II installation; later screenshots verify game and editor build 5.0.17 (98745), Battle.net region Europe. Exact internal archive paths and export workflow remain undocumented.",
   "copyright_note": "Only SHA-256 hashes and technical metadata are recorded; no copyrighted audio bytes are committed.",
   "files": [
     {
@@ -38,7 +38,7 @@
       "channels": 2,
       "codec": "Ogg Vorbis",
       "size_bytes": 52452,
-      "sha256": "aef2d737c23fad2da9e6ee7719fc91ef03bd1e3025c145b1fcfea8fae",
+      "sha256": "aef2d737c23fad2da9e3b02a9e6ee7719fc91ef03bd1e3025c145b1fcfea8fae",
       "format_verified": "local_decoder",
       "identity_verified": "filename_only_archive_provenance_pending",
       "transcription_status": "not_independently_verified",
@@ -69,6 +69,6 @@
     "voice_locale_status": "contributor_confirmed_game_installation_language",
     "extraction_date": null,
     "archive_path": null,
-    "notes": "Screenshots confirm editor and launcher builds match; contributor confirms English game installation. Region is Europe, but does not determine en-US versus en-GB. Original archive origins of individual audio assets still need independent verification."
+    "notes": "Game and editor version confirmed by contributor screenshots. English installation confirmed by contributor. Exact regional locale and internal archive provenance are unknown."
   }
 }
