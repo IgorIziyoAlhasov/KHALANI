@@ -1,0 +1,61 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "user_supplied_audio_asset_manifest",
+  "record_date": "2026-11-28",
+  "provenance": "User states these files were extracted from their StarCraft II installation; original CASC archive offsets, install version, locale and extraction steps not yet documented.",
+  "copyright_note": "Only SHA-256 hashes and technical metadata are recorded; no copyrighted audio bytes are committed.",
+  "files": [
+    {
+      "filename": "HighTemplar_Ready00.ogg",
+      "duration_seconds_approx": 2.64,
+      "sample_rate_hz": 44100,
+      "channels": 1,
+      "codec": "Ogg Vorbis",
+      "size_bytes": 33920,
+      "sha256": "c8983f291fd9a546b8710efa4dd580bf3457978878866370f4bd01d36abf1fa1",
+      "format_verified": "local_decoder",
+      "identity_verified": "filename_only_archive_provenance_pending",
+      "transcription_status": "not_independently_verified",
+      "translation_status": "not_independently_verified"
+    },
+    {
+      "filename": "Zealot_Yes04.ogg",
+      "duration_seconds_approx": 2.211,
+      "sample_rate_hz": 44100,
+      "channels": 1,
+      "codec": "Ogg Vorbis",
+      "size_bytes": 23386,
+      "sha256": "f9d1bffab9df3fdb395393c925a57a0a966b2f89df20869bad519e1742601d0f",
+      "format_verified": "local_decoder",
+      "identity_verified": "filename_only_archive_provenance_pending",
+      "transcription_status": "not_independently_verified",
+      "translation_status": "not_independently_verified"
+    },
+    {
+      "filename": "Mothership_What02.ogg",
+      "duration_seconds_approx": 3.137,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "codec": "Ogg Vorbis",
+      "size_bytes": 52452,
+      "sha256": "aef2d737c23fad2da9e6ee7719fc91ef03bd1e3025c145b1fcfea8fae",
+      "format_verified": "local_decoder",
+      "identity_verified": "filename_only_archive_provenance_pending",
+      "transcription_status": "not_independently_verified",
+      "translation_status": "not_independently_verified"
+    },
+    {
+      "filename": "Mothership_What03.ogg",
+      "duration_seconds_approx": 3.882,
+      "sample_rate_hz": 44100,
+      "channels": 2,
+      "codec": "Ogg Vorbis",
+      "size_bytes": 64596,
+      "sha256": "e0711a9a0967c49d4a92272db5ca0136e9cde6a8536accb70b2b5f22eed79679",
+      "format_verified": "local_decoder",
+      "identity_verified": "filename_only_archive_provenance_pending",
+      "transcription_status": "not_independently_verified",
+      "translation_status": "not_independently_verified"
+    }
+  ]
+}
