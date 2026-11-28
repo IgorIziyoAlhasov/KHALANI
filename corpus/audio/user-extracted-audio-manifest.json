@@ -57,5 +57,18 @@
       "transcription_status": "not_independently_verified",
       "translation_status": "not_independently_verified"
     }
-  ]
+  ],
+  "environment": {
+    "source": "user-provided screenshots of StarCraft II Editor About dialog and Battle.net launcher",
+    "editor_version": "5.0.17",
+    "editor_build": "98745",
+    "game_version": "5.0.17",
+    "game_build": "98745",
+    "battle_net_region": "Europe",
+    "voice_locale": null,
+    "voice_locale_status": "not_displayed_in_screenshots",
+    "extraction_date": null,
+    "archive_path": null,
+    "notes": "Screenshots confirm editor and launcher builds match; they do not independently authenticate archive origin of each audio file or establish spoken-language locale."
+  }
 }
