@@ -1,0 +1,26 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "human_listening_observation",
+  "record_id": "NK-LISTEN-0002",
+  "date_recorded": "2026-11-28",
+  "source_file": "Mothership_What02.ogg",
+  "source_manifest": "corpus/audio/user-extracted-audio-manifest.json",
+  "listener_id": "project_contributor_01",
+  "reported_replays": "more than 10",
+  "raw_observation": "Listened the Mothership_What02.ogg file. Even gave it more then 10 tries. And I can tell that it a clean English. Even could tell it is more US-ish pronunciation rather than any UK, Irish or Australian.",
+  "language_perception": "clearly intelligible English",
+  "accent_perception": "more US-like than UK, Irish or Australian",
+  "confidence": "not explicitly rated in this report",
+  "phonetic_comparison": {
+    "comparison_record": "NK-LISTEN-0001",
+    "target": "Mothership_What03.ogg",
+    "finding": "Listener reported unusual consonant/vowel impressions for What03, while describing What02 as clean English; listener did not explicitly give a feature-by-feature absence assessment for What02."
+  },
+  "interpretation_limits": [
+    "Perceived American-like accent is not proof of speaker nationality or actual regional dialect.",
+    "Intelligible English does not prove a recording lacks DSP effects.",
+    "No verbatim transcription of English words was supplied in this listening observation.",
+    "The relationship between Mothership What02 and What03 remains unverified as translation."
+  ],
+  "evidence_status": "contributor_perceptual_observation"
+}
