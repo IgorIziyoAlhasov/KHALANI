@@ -1,0 +1,35 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "independent_perceptual_transcription_template",
+  "status": "unfilled",
+  "instructions": "Do not read secondary transcriptions before entering hearing. Duplicate template per listener and file. Unknown means null; never prepopulate from fan transcripts.",
+  "environment": {
+    "game_build": "5.0.17.98745",
+    "install_language": "English",
+    "battle_net_region": "Europe"
+  },
+  "record_template": {
+    "filename": null,
+    "listener_id": null,
+    "listening_date": null,
+    "listening_order": null,
+    "raw_hearing": null,
+    "possible_syllables": null,
+    "word_breaks_confidence": null,
+    "uncertain_spans": [],
+    "alternative_hearing": null,
+    "playback": {
+      "normal_speed_count": null,
+      "altered_speed": null,
+      "pitch_preserved": null
+    },
+    "confidence_by_segment": [],
+    "comments": null
+  },
+  "queue": [
+    "HighTemplar_Ready00.ogg",
+    "Zealot_Yes04.ogg",
+    "Mothership_What02.ogg",
+    "Mothership_What03.ogg"
+  ]
+}
