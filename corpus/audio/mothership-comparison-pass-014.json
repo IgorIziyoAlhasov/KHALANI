@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1.0",
+  "id": "NK-ACOUSTIC-014",
+  "date": "2026-11-28",
+  "source": "Contributor-extracted original audio; direct PCM analysis in current research session",
+  "game_build": "5.0.17.98745",
+  "method": {
+    "decoder": "libsndfile/soundfile; float64 PCM",
+    "channel_correlation": "Pearson correlation of full left and right waveforms",
+    "side_to_mid_rms": "RMS(L-R)/RMS(L+R)",
+    "spectral_energy": "scipy.signal.stft, Hann window, nperseg 2048, noverlap 1024; center=(L+R)/2, sum magnitude-squared values for frequencies below 250 Hz divided by total"
+  },
+  "files": [
+    {
+      "filename": "Mothership_What02.ogg",
+      "sha256": "aef2d737c23fad2da9e3b02a9e6ee7719fc91ef03bd1e3025c145b1fcfea8fae",
+      "duration_seconds": 3.1367573696145126,
+      "samples": 138331,
+      "sample_rate": 44100,
+      "channel_correlation": 0.29786504953625076,
+      "side_mid_rms_ratio": 0.7355404910200226,
+      "center_energy_fraction_below_250Hz": 0.7697117390816436
+    },
+    {
+      "filename": "Mothership_What03.ogg",
+      "sha256": "e0711a9a0967c49d4a92272db5ca0136e9cde6a8536accb70b2b5f22eed79679",
+      "duration_seconds": 3.8815873015873015,
+      "samples": 171178,
+      "sample_rate": 44100,
+      "channel_correlation": 0.3472576715688244,
+      "side_mid_rms_ratio": 0.6968374826914809,
+      "center_energy_fraction_below_250Hz": 0.860563078965054
+    }
+  ],
+  "interpretation_limits": [
+    "Whole-file spectral differences are not phoneme-specific.",
+    "Stereo decorrelation does not by itself identify a sound-processing technique.",
+    "A low-frequency energy concentration does not prove uvular/pharyngeal articulation, glottalization, or tonal language.",
+    "No independent IPA perceptual transcription obtained.",
+    "The translation-pair hypothesis remains unverified."
+  ]
+}
