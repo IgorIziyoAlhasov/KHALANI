@@ -1,0 +1,54 @@
+{
+  "schema_version": "0.1.0",
+  "record_kind": "human_listening_observation",
+  "record_id": "NK-LISTEN-0001",
+  "date_recorded": "2026-11-28",
+  "source_file": "Mothership_What03.ogg",
+  "source_manifest": "corpus/audio/user-extracted-audio-manifest.json",
+  "listener_id": "project_contributor_01",
+  "listener_background": "Russian and English native-level; references Hebrew and Mandarin phonetic analogies",
+  "reported_confidence": "high",
+  "raw_observation": "I can clearly hear:\nKi nala atum.\nBut it feels like the first \"k\" sound resembles Hebrew \"ק\" rather than rough English \"k\" or Rrussian \"к\" letters. And in addition it have a softening effect of Russian letter \"ь\" which is used for those purposes. Also it feels a bit \"swallowed\"-ish effect before the \"k\" is pronounced...\nRegarding the \"a\" and \"u\" in \"atum I have another interesting observation. \n- the \"a\" sounds as if it would be Hebrew \"ע\" as if it would be ancient תנחית Hebrew rather than modern. And in the same time it feels like Chinese 3rd tone. At least slight similarity is definitely there. I wouldn't be able to notice that if not for the \"a\" sound in \"nala\" which are both very plain straightforward \"a\" sound like in Russian \"а\"\n- the \"u\" is not a flat \"у\" from Russian. It has a slight of \"ю\" in it. But a really slight - like to the end of the vowel.",
+  "verbatim_hearing": "Ki nala atum.",
+  "hearing_origin": "Contributor reports independent listening, without checking secondary transcript first; prior availability of fan wording in project discussions may have influenced expectations.",
+  "phonetic_impressions": [
+    {
+      "target": "initial /k/-like sound in Ki",
+      "observation": "Hebrew ק-like, with a palatal-softening impression comparable to Russian ь; a swallowed or constricted quality before onset.",
+      "status": "unverified_personal_hearing"
+    },
+    {
+      "target": "two a vowels of nala",
+      "observation": "plain a comparable to Russian а",
+      "status": "unverified_personal_hearing"
+    },
+    {
+      "target": "initial a of atum",
+      "observation": "resembles older Hebrew ע-related articulation with a pitch contour reminiscent of Mandarin third tone",
+      "status": "unverified_personal_hearing"
+    },
+    {
+      "target": "u of atum",
+      "observation": "slight transition toward Russian ю near end of vowel",
+      "status": "unverified_personal_hearing"
+    }
+  ],
+  "comparison": {
+    "secondary_index_form": "Ki nala atum.",
+    "source_id": "NK-SRC-0023",
+    "result": "orthographic_sequence_agreement",
+    "limit": "Listener had previously seen candidate spelling during this research; not a fully blinded independent replication."
+  },
+  "recording_attributes": {
+    "game_build": "5.0.17.98745",
+    "installation_language": "English"
+  },
+  "not_claimed": [
+    "canonical Khalani phonemes",
+    "IPA transcription",
+    "lexical tone",
+    "morpheme boundaries",
+    "confirmed game-data English translation"
+  ],
+  "next_step": "Independent second listener and targeted playback of original stereo channels; record comparative hearing before reviewing fan transcriptions."
+}
