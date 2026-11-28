@@ -1,0 +1,69 @@
+{
+  "schema_version": "0.1.0",
+  "pass": "NK-RES-012",
+  "environment": {
+    "game": "StarCraft II",
+    "build": "5.0.17.98745",
+    "language": "English (contributor confirmed)",
+    "battle_net_region": "Europe"
+  },
+  "measurement_method": "Decode Ogg Vorbis to floating-point PCM; energy analysis uses 10 ms non-overlapping windows, RMS threshold max(0.015, 0.1 * maximum window RMS). The resulting interval is not a phonetic or vocal-onset segmentation.",
+  "records": [
+    {
+      "filename": "HighTemplar_Ready00.ogg",
+      "sha256": "c8983f291fd9a546b8710efa4dd580bf3457978878866370f4bd01d36abf1fa1",
+      "sample_rate_hz": 44100,
+      "sample_count": 116416,
+      "channels": 1,
+      "duration_seconds": 2.6398,
+      "global_rms": 0.09287,
+      "peak_sample_amplitude": 0.84167,
+      "energy_activity_start_seconds": 0.21,
+      "energy_activity_end_seconds": 2.08
+    },
+    {
+      "filename": "Zealot_Yes04.ogg",
+      "sha256": "f9d1bffab9df3fdb395393c925a57a0a966b2f89df20869bad519e1742601d0f",
+      "sample_rate_hz": 44100,
+      "sample_count": 97515,
+      "channels": 1,
+      "duration_seconds": 2.2112,
+      "global_rms": 0.1323,
+      "peak_sample_amplitude": 0.99326,
+      "energy_activity_start_seconds": 0.17,
+      "energy_activity_end_seconds": 1.87
+    },
+    {
+      "filename": "Mothership_What02.ogg",
+      "sha256": "aef2d737c23fad2da9e3b02a9e6ee7719fc91ef03bd1e3025c145b1fcfea8fae",
+      "sample_rate_hz": 44100,
+      "sample_count": 138331,
+      "channels": 2,
+      "duration_seconds": 3.1368,
+      "global_rms": 0.15288,
+      "peak_sample_amplitude": 0.99745,
+      "stereo_channel_correlation": 0.2979,
+      "energy_activity_start_seconds": 0.13,
+      "energy_activity_end_seconds": 2.89
+    },
+    {
+      "filename": "Mothership_What03.ogg",
+      "sha256": "e0711a9a0967c49d4a92272db5ca0136e9cde6a8536accb70b2b5f22eed79679",
+      "sample_rate_hz": 44100,
+      "sample_count": 171178,
+      "channels": 2,
+      "duration_seconds": 3.8816,
+      "global_rms": 0.16595,
+      "peak_sample_amplitude": 1.03372,
+      "stereo_channel_correlation": 0.3473,
+      "energy_activity_start_seconds": 0.11,
+      "energy_activity_end_seconds": 3.58
+    }
+  ],
+  "interpretation_limits": [
+    "Channel differences do not establish phonemes or grammar.",
+    "Sample peak slightly above 1.0 in float PCM is not automatically proof of damaged Ogg audio.",
+    "This pass did not independently perform critical listening or identify IPA.",
+    "Adjacent unit response assets do not prove translation."
+  ]
+}
